@@ -1,0 +1,38 @@
+{
+  "name": "Monde de rêve",
+  "type": "trigger",
+  "sound_urls": [
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/antartique.mp3?v=1700831681658",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/france.mp3?v=1700831691671",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/froid.mp3?v=1700831701683",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/ocean.mp3?v=1700831715255",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/reve.mp3?v=1700831719333",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/russie.mp3?v=1700831730090",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/samba.mp3?v=1700831744163",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/tambours.mp3?v=1700831760734",
+    "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/usa.mp3?v=1700831770091"
+  ],
+  "sound_names": [
+    "Antartique",
+    "France",
+    "Froid",
+    "Ocean",
+    "Reve",
+    "Russie",
+    "Samba",
+    "Tamours",
+    "USA"
+  ],
+  "sound_positions": [
+    [61.7, 94.3],
+    [57.6, 41.4],
+    [40.5, 26.5],
+    [94.5, 42.0],
+    [8.58, 77.1],
+    [75.3, 43.1],
+    [42.5, 61.6],
+    [60.3, 59.7],
+    [31.7, 47.8]
+  ],
+  "drawing": "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Monde-Reve.jpeg?v=1700831648339"
+}
