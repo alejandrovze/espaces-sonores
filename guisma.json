@@ -1,0 +1,43 @@
+{
+  "name": "Yourte Sonore",
+  "sound_urls": ["https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - La Porte.wav?v=1696098632857",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Des gens qui parlent et il y a un papillon.wav?v=1696411689363",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Broom (leaves!).wav?v=1696098566697",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - DUSTPAN .wav?v=1696098627744",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Shoes on floor.wav?v=1696098655964",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Le ventilateur.wav?v=1696098654404",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Le sac.wav?v=1696098654104",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Lumières on_off.wav?v=1696098654001",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Le TGV.wav?v=1696098652287",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Le bus.wav?v=1696098644774",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA - Le Radiateur.wav?v=1696098641954"
+  ],
+  "sound_names":[
+  "La porte",
+  "Gens qui parlent",
+  "Broom",
+  "Dustpan",
+  "Shoes on floor",
+  "Ventilateur",
+  "Le sac",
+  "Lumières",
+  "TGV",
+  "Le bus",
+  "Radiateur"
+  ],
+  "sound_positions":[
+  [62.8, 79.9],
+  [57.6, 36.4],
+  [15.5, 85.1],
+  [30.71, 84.56],
+  [19.44, 67.40],
+  [23.76, 12.26],
+  [84.66, 43.86], 
+  [17.18, 58.82],
+  [72.63, 9.53],
+  [83.16, 23.45],
+  [13.44, 46.98]
+  ],
+  "drawing":"https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/GUISMA%20-%20MAP.jpg?v=1696409259924"
+}
+  
