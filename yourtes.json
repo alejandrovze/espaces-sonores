@@ -1,0 +1,33 @@
+{
+  "name": "Carte des Couleurs",
+  "sound_urls": ["https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-VENT-V2.wav?v=1699963874266",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-METAL-V2.wav?v=1699963872315",  
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-BONBON-V2.wav?v=1699963866332",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-CRIS-V2.wav?v=1699963869183",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-EAU-V2.wav?v=1699963869955",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-FEU-V2.wav?v=1699963871427",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-NATURE-V2.wav?v=1699963873605",
+  "https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/Maryam-CRAYONS-V2.wav?v=1699963868002"
+  ],
+  "sound_names":[
+  "vent",
+  "metal",
+  "bonbon",
+  "cris",
+  "eau",
+  "feu",
+  "nature",
+  "crayons"
+  ],
+  "sound_positions":[
+  [47.1, 23.3],
+  [72.8, 17.6],
+  [15.5, 66.1],
+  [87.6, 96.7],
+  [48.1, 68.2],
+  [18.3, 25.8],
+  [74.6, 66.4], 
+  [87.3, 36.8]
+  ],
+  "drawing":"https://cdn.glitch.global/0c7daaab-70f1-4806-b861-6042f350e9d5/carte-des-couleurs.jpeg?v=1699463449486"
+}
